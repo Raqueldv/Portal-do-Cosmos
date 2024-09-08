@@ -26,4 +26,4 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para ma
 
 **Agradecimentos:**
 
-Obrigada a todos!
+Agradeço a todos!
